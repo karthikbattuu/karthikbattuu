@@ -32,9 +32,10 @@ Tools I Use for Data Analytics
 
 🎯 Quote of the Day
 -----------------------------------------------------------------
-<div align="center"/>
+<div align="center">
   
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/karthikbattuu)
+[![Readme Quotes](https://readme-daily-quotes.vercel.app/api?theme=transparent&quote_color=1F6FEB&author_color=1F6FEB)](https://github.com/karthikbattuu)
+
 </div>
 
 <br>
