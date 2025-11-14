@@ -19,7 +19,10 @@ Tools I Use for Data Analytics
 <br>
 
 <a href="https://www.python.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="60" style="margin-right: 30px;"></a>
+
 <br>
+
+<hr style="border: none; height: 1px; background-color: #333; margin: 20px 0;">
 
 📈 My GitHub Stats
 -----------------------------------------------------------------
@@ -38,6 +41,7 @@ Tools I Use for Data Analytics
        
 </div>
 
+<hr style="border: none; height: 1px; background-color: #333; margin: 20px 0;">
 
 ⚡️ GitHub Streaks
 -----------------------------------------------------------------
