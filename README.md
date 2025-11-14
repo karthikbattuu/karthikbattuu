@@ -1,3 +1,14 @@
+<div align="center">
+  
+  <h2 style="color: #4A90E2;">Halo, i'm Karthik Battu 👋</h2>
+  
+  <img src="https://raw.githubusercontent.com/codedancer/gh-landing/main/img/dev.svg" 
+       alt="Developer working on data analysis" 
+       width="500"/>
+  
+</div>
+
+
 Hey there! 👋
 
 <br>
