@@ -23,6 +23,7 @@ Tools I Use for Data Analytics
 
 🧩 Visitor Counter
 -----------------------------------------------------------------
+👁️ Total Profile Visitors:
 
 [![visitors](https://komarev.com/ghpvc/?username=karthikbattuu&color=blue&label=visitors)](https://github.com/karthikbattuu)
 
