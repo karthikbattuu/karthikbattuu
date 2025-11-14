@@ -28,6 +28,10 @@ Tools I Use for Data Analytics
 
 <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Python" height="60" style="margin-right: 30px;"></a>
 
+<br>
+
+<a href="https://www.microsoft.com/en-in/sql-server/sql-server-downloads" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Microsoft_SQL_Server_Logo.png" alt="Python" height="60" style="margin-right: 30px;"></a>
+
 
 
 <hr style="border: none; height: 1px; background-color: #333; margin: 20px 0;">
