@@ -1,14 +1,3 @@
-<div align="center">
-  
-  <h2 style="color: #4A90E2;">Halo, i'm Karthik Battu 👋</h2>
-  
-  <img src="https://raw.githubusercontent.com/codedancer/gh-landing/main/img/dev.svg" 
-       alt="Developer working on data analysis" 
-       width="500"/>
-  
-</div>
-
-
 Hey there! 👋
 
 <br>
@@ -57,6 +46,8 @@ Tools I Use for Data Analytics
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikbattuu&theme=dark&hide_border=true&border_radius=6&ring=FF8C00&fire=FF8C00&currstreak_text=FF8C00&cache_buster=1" alt="GitHub Streak" />
 </div>
 
+<hr style="border: none; height: 1px; background-color: #333; margin: 20px 0;">
+
 🧩 Visitor Counter
 -----------------------------------------------------------------
 <div align="center"/>
@@ -65,6 +56,7 @@ Tools I Use for Data Analytics
 <br>[![visitors](https://komarev.com/ghpvc/?username=karthikbattuu&color=blue&label=visitors)](https://github.com/karthikbattuu)
 </div>
 
+<hr style="border: none; height: 1px; background-color: #333; margin: 20px 0;">
 
 🎯 Quote of the Day
 -----------------------------------------------------------------
@@ -75,6 +67,8 @@ Tools I Use for Data Analytics
 </div>
 
 <br>
+
+<hr style="border: none; height: 1px; background-color: #333; margin: 20px 0;">
 
 <div align="center"/>
 ✨ Thanks for visiting my profile! Feel free to explore, star ⭐️, and fork my projects!
