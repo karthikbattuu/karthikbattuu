@@ -26,7 +26,7 @@ Tools I Use for Data Analytics
 
 <br>
 
-<a href="https://www.tableau.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Python" height="60" style="margin-right: 30px;"></a>
+<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Python" height="60" style="margin-right: 30px;"></a>
 
 
 
