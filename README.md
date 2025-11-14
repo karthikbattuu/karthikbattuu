@@ -22,15 +22,8 @@ Tools I Use for Data Analytics
 
 <br>
 
+<a href="https://www.tableau.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="60" style="margin-right: 30px;"></a>
 
-
-<a href="https://www.tableau.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Tableau_Logo.png" alt="Tableau" height="60" style="margin-right: 30px;"/></a>
-
-<a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Microsoft_Power_BI_logo.svg" alt="Power BI" height="60" style="margin-right: 30px;"/></a>
-
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/8/87/SQL_Server_2016_logo.svg" alt="SQL Server" height="60" style="margin-right: 30px;"/></a>
-
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" height="60" style="margin-right: 30px;"/></a>
 
 
 
