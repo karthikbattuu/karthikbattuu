@@ -36,4 +36,7 @@ Tools I Use for Data Analytics
 
 
 <br>
+
+<div align="center"/>
 ✨ Thanks for visiting my profile! Feel free to explore, star ⭐️, and fork my projects!
+</div>
