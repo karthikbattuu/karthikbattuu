@@ -34,8 +34,8 @@ Tools I Use for Data Analytics
 -----------------------------------------------------------------
 <div align="center">
   
-[![Readme Quotes](https://readme-daily-quotes.vercel.app/api?theme=transparent&quote_color=1F6FEB&author_color=1F6FEB)](https://github.com/karthikbattuu)
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=4285F4&center=true&vCenter=true&width=450&lines=The+greatest+luxury+is+time%3B+data+helps+us+save+it.;Analyze+the+past%2C+motivate+the+present%2C+design+the+future.;In+a+sea+of+data%2C+be+a+confident+analyst." alt="Typing SVG" />
+  
 </div>
 
 <br>
