@@ -26,9 +26,7 @@ Tools I Use for Data Analytics
 -----------------------------------------------------------------
 
 <div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikbattuu&theme=dark&hide_border=true&border_radius=6" alt="GitHub Streak" />
-  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikbattuu&theme=dark&hide_border=true&border_radius=6&ring=FF8C00&fire=FF8C00&currstreak_text=FF8C00&cache_buster=1" alt="GitHub Streak" />
 </div>
 
 🧩 Visitor Counter
