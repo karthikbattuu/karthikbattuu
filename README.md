@@ -32,6 +32,9 @@ Tools I Use for Data Analytics
 
 <a href="https://www.microsoft.com/en-in/sql-server/sql-server-downloads" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg" alt="Python" height="60" style="margin-right: 30px;"></a>
 
+<br>
+
+<a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg" alt="Python" height="60" style="margin-right: 30px;"></a>
 
 
 <hr style="border: none; height: 1px; background-color: #333; margin: 20px 0;">
