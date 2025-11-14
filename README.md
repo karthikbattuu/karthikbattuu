@@ -22,6 +22,30 @@ Tools I Use for Data Analytics
 
 <br>
 
+
+
+
+<div align="left">
+    <a href="https://www.python.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Logo" height="50"/>
+    </a>
+    &nbsp; &nbsp; <a href="https://www.tableau.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Logo" height="50"/>
+    </a>
+    &nbsp; &nbsp; <a href="https://powerbi.microsoft.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Logo" height="50"/>
+    </a>
+    &nbsp; &nbsp; <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+        <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server Logo" height="50"/>
+    </a>
+    &nbsp; &nbsp; <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+        <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Logo" height="50"/>
+    </a>
+</div>
+
+
+
+
 <hr style="border: none; height: 1px; background-color: #333; margin: 20px 0;">
 
 📈 My GitHub Stats
