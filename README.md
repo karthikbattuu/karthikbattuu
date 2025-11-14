@@ -15,11 +15,14 @@ Outside of work, I love playing video games and travelling.
 
 
 Tools I Use for Data Analytics
+-----------------------------------------------------------------
 <br>
 
 <a href="https://www.python.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="60" style="margin-right: 30px;"></a>
 <br>
 
+🧩 Visitor Counter
+-----------------------------------------------------------------
 
 <br>
 ✨ Thanks for visiting my profile! Feel free to explore, star ⭐️, and fork my projects!
