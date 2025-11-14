@@ -24,5 +24,14 @@ Tools I Use for Data Analytics
 🧩 Visitor Counter
 -----------------------------------------------------------------
 
+[![visitors](https://komarev.com/ghpvc/?username=karthikbattuu&color=blue&label=visitors)](https://github.com/karthikbattuu)
+
+---
+
+## 💬 Quote of the Day
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/karthikbattuu)
+
+
 <br>
 ✨ Thanks for visiting my profile! Feel free to explore, star ⭐️, and fork my projects!
