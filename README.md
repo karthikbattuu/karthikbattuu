@@ -22,7 +22,7 @@ Tools I Use for Data Analytics
 
 <br>
 
-<a href="https://www.tableau.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="60" style="margin-right: 30px;"></a>
+<a href="https://www.tableau.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Tableau_Software_Logo_Small.png" alt="Python" height="60" style="margin-right: 30px;"></a>
 
 
 
