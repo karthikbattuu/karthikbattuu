@@ -21,6 +21,23 @@ Tools I Use for Data Analytics
 <a href="https://www.python.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="60" style="margin-right: 30px;"></a>
 <br>
 
+📈 My GitHub Stats
+-----------------------------------------------------------------
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=karthikbattuu&show_icons=true&theme=dark&include_all_commits=true&hide_border=true" alt="Karthik's GitHub Stats" />
+  
+</div>
+
+<div align="center">
+  
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikbattuu&langs_count=6&theme=dark&title_color=85A3FF&text_color=FFFFFF&hide_border=true&v=1.0.0" 
+       alt="Karthik's Top Languages" />
+       
+</div>
+
 
 ⚡️ GitHub Streaks
 -----------------------------------------------------------------
