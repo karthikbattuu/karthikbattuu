@@ -35,25 +35,12 @@ Hi, I'm Karthik Battu. I'm a passionate data and business analyst 📉📊.
 Tools I Use for Data Analytics
 -----------------------------------------------------------------
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="60" style="margin-right: 30px;"></a>
+[![SQL Badge](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=mysql&logoColor=white&labelColor=00758F)](https://en.wikipedia.org/wiki/SQL)
+[![Python Badge](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white&labelColor=3776AB)](https://www.python.org/)
+[![Excel Badge](https://img.shields.io/badge/Excel-000000?style=flat-square&logo=microsoftexcel&logoColor=white&labelColor=107C10)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![Power BI Badge](https://img.shields.io/badge/Power%20BI-000000?style=flat-square&logo=powerbi&logoColor=white&labelColor=F2C811)](https://powerbi.microsoft.com/)
+[![Google Data Studio Badge](https://img.shields.io/badge/Google%20Data%20Studio-000000?style=flat-square&logo=googledatastudio&logoColor=white&labelColor=4285F4)](https://lookerstudio.google.com/)
 
-
-
-<a href="https://www.tableau.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Tableau_Software_Logo_Small.png" alt="Python" height="60" style="margin-right: 30px;"></a>
-
-
-
-<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Python" height="60" style="margin-right: 30px;"></a>
-
-
-
-<a href="https://www.microsoft.com/en-in/sql-server/sql-server-downloads" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg" alt="Python" height="60" style="margin-right: 30px;"></a>
-
-
-
-<a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg" alt="Python" height="60" style="margin-right: 30px;"></a>
-</p>
 
 ---
 
