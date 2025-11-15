@@ -8,22 +8,20 @@
 </p>
 
 ---
-
-Hey there! 👋
-
+# 👤 About Me
 <br>
 
-Hi, I'm Karthik Battu. I'm a passionate data analyst from India. 📌
+Hi, I'm Karthik Battu. I'm a passionate data and business analyst 📉📊.
 
-I specialize in data cleaning, data analysis, and data storytelling through impactful visualizations. Along with being an analyst, I also enjoy learning new technologies, improving systems, and building meaningful things on the internet.
+> I specialize in data cleaning, data analysis, and data storytelling through impactful visualizations. Along with being an analyst, I also enjoy learning new technologies, improving systems, and building meaningful things on the internet.
 
-I'm fascinated by how data drives business decisions and sparks innovation. I aim to combine my analytical skills, PMO experience, and passion for working with data to create real value for organizations and the world.
+> I'm fascinated by the impact data can make in making informed decisions and in introducing groundbreaking innovation. I aspire to leverage my technical expertise and passion for working with data to make meaningful impact in the industry and the world.
 
-Outside of work, I love playing video games and travelling.
-<br>
-<br>
-<br>
+> Outside of work, I love playing video games and travelling.
 
+📍 Based in India.
+
+---
 
 Tools I Use for Data Analytics
 -----------------------------------------------------------------
