@@ -34,15 +34,22 @@ Hi, I'm Karthik Battu. I'm a passionate data and business analyst 📉📊.
 
 Tools I Use for Data Analytics
 -----------------------------------------------------------------
-
 <p align="left">
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Google%20Data%20Studio-4285F4?style=flat-square&logo=googlestreetview&logoColor=white"/>
+    <a href="https://www.microsoft.com/en-in/sql-server/sql-server-downloads" target="_blank">
+        <img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=microsoftsqlserver&logoColor=white&h=30&cacheSeconds=3600"/></a>
+    
+<a href="https://www.python.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&h=30&cacheSeconds=3600"/></a>
+    
+<a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank">
+        <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white&h=30&cacheSeconds=3600"/></a>
+    
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank">
+        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black&h=30&cacheSeconds=3600"/></a>
+    
+<a href="https://www.tableau.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white&h=30&cacheSeconds=3600"/></a>
 </p>
-
 
 ---
 
