@@ -9,7 +9,10 @@
 
 ---
 # 👤 About Me
-<br>
+
+[![GitHub Badge](https://img.shields.io/badge/GitHub-@karthikbattuu-28a745?style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://github.com/karthikbattuu)
+[![LinkedIn Badge](https://img.shields.io/badge/Linked%20in-in-1275B2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=333333)](https://www.linkedin.com/in/karthik-battuu/)
+[![X Badge](https://img.shields.io/badge/X-@karthikbattuu-707070?style=for-the-badge&logo=x&logoColor=white&labelColor=333333)](https://x.com/karthikbattuu)
 
 Hi, I'm Karthik Battu. I'm a passionate data and business analyst 📉📊.
 
@@ -82,29 +85,12 @@ Tools I Use for Data Analytics
 -----------------------------------------------------------------
 
    
-<div class="split-buttons-container">
+<div align="center">
     
-<a href="https://github.com/karthikbattuu" class="split-button github-button" target="_blank" title="GitHub Profile">
-        <span class="service-name">GitHub</span>
-        <span class="handle">@karthikbattuu</span>
-    </a>
 
-<a href="https://www.linkedin.com/in/karthik-battuu/" class="split-button linkedin-button" target="_blank" title="LinkedIn Profile">
-        <span class="service-name">Linked<span style="font-style: italic;">in</span></span>
-        <span class="handle">/in/karthik-battuu/</span>
-    </a>
 
-<a href="https://x.com/karthikbattuu" class="split-button x-button" target="_blank" title="X Profile">
-        <span class="service-name">X</span>
-        <span class="handle">@karthikbattuu</span>
-    </a>
 
 </div>
-
-### Let's connect!
-[![GitHub Badge](https://img.shields.io/badge/GitHub-karthikbattuu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karthikbattuu)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-karthik--battuu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-battuu/)
-[![X Badge](https://img.shields.io/badge/X-@karthikbattuu-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/karthikbattuu)
 
 
 🎯 Quote of the Day
