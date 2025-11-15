@@ -13,7 +13,7 @@
 
 </p>
 
----
+
 # 👤 About Me
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-@karthikbattuu-28a745?style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://github.com/karthikbattuu)
@@ -32,7 +32,7 @@ Hi, I'm Karthik Battu. I'm a passionate data and business analyst 📉📊.
 
 📍 Based in India.
 
----
+
 
 Tools I Use for Data Analytics
 -----------------------------------------------------------------
@@ -56,7 +56,7 @@ Tools I Use for Data Analytics
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&h=40&cacheSeconds=3600"/></a>
 </p>
 
----
+
 
 ⚡️ GitHub Streaks and Stats
 -----------------------------------------------------------------
@@ -67,18 +67,7 @@ Tools I Use for Data Analytics
   <img src="https://github-readme-stats.vercel.app/api?username=karthikbattuu&show_icons=true&theme=tokyonight&width=48%&hide_border=true"/>
 </div>
 
----
 
-🧩 Visitor Counter
------------------------------------------------------------------
-<div align="center" style="background-color:#0d1117;padding:10px 20px;border-radius:12px;box-shadow:0px 0px 10px rgba(0,255,255,0.2);">
-  
-<p><strong>👁️ Total Profile Visitors:</strong></p>
-
-<br>[![visitors](https://komarev.com/ghpvc/?username=karthikbattuu&color=blue&label=visitors)](https://github.com/karthikbattuu)
-</div>
-
----
 
 🎯 Quote of the Day
 -----------------------------------------------------------------
@@ -87,11 +76,10 @@ Tools I Use for Data Analytics
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=4285F4&center=true&vCenter=true&width=750&lines=Analyze+to+advance.;Data+fuels+financial+freedom.;Success+is+a+quantified+journey.;Your+best+asset+is+knowledge.;Code+your+vision+into+reality.;Mastery+requires+analysis.;Money+is+a+growth+metric.;Motivation+is+your+algorithm.;Be+the+data+expert.;Excellence+is+the+goal.;Focus+on+impact.;Refine+your+process.;Invest+in+skills.;Growth+lives+outside+comfort.;Seek+clarity+in+data.;Analyze+risks+wisely.;Wealth+is+freedom.;Build+your+empire.;Driven+by+insights.;Always+be+curious.;Learn%2C+analyze%2C+achieve.;Simplify+the+complex.;Action+beats+analysis.;Money+follows+value.;Innovate+with+data.;Success+demands+discipline.;Financial+literacy+is+power.;Your+code+is+your+legacy.;Master+your+metrics.;Solve+complex+problems.;Think+like+an+analyst.;Hustle+for+your+happiness.;Optimize+your+life.;Be+strategic%2C+not+busy.;Data+reveals+opportunities.;Set+high+standards.;Ambition+has+no+limit.;Growth+is+mandatory.;Code+your+destiny.;Progress%2C+not+perfection.;Find+the+signal+in+noise.;Analyze+your+failures.;Invest+in+growth.;Success+is+measurable.;Know+your+data+story.;Build+the+future.;Money+is+the+scorecard.;Be+the+strategist.;Mindset+defines+wealth.;Keep+analyzing%2C+keep+growing." alt="Typing SVG Scroller with 50 Quotes" />
   
 </div>
-
 <br>
-
-<hr style="border: none; height: 1px; background-color: #333; margin: 20px 0;">
-
+<br>
+<br>
+<br>
 <div align="center"/>
 ✨ Thanks for visiting my profile! Feel free to explore, star ⭐️, and fork my projects!
 </div>
