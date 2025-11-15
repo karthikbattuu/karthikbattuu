@@ -1,3 +1,14 @@
+<!-- 🔷 HEADER -->
+<div align="center" style="background-color:#e3f2fd;padding:20px;border-radius:12px;">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hello,+i'm+Karthik+Battu__+👋;Aspiring+Data+Analyst+and+Business+Analyst;SQL,+Python,+Tableau,+Power+BI+Enthusiast;&center=true&width=500&height=45">
+</div>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
+
+---
+
 Hey there! 👋
 
 <br>
