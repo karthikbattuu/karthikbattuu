@@ -81,18 +81,6 @@ Tools I Use for Data Analytics
 
 ---
 
-📫 Let's connect!
------------------------------------------------------------------
-
-   
-<div align="center">
-    
-
-
-
-</div>
-
-
 🎯 Quote of the Day
 -----------------------------------------------------------------
 <div align="center">
