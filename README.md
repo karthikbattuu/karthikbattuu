@@ -101,6 +101,11 @@ Tools I Use for Data Analytics
 
 </div>
 
+### Let's connect!
+[![GitHub Badge](https://img.shields.io/badge/GitHub-karthikbattuu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karthikbattuu)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-karthik--battuu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-battuu/)
+[![X Badge](https://img.shields.io/badge/X-@karthikbattuu-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/karthikbattuu)
+
 
 🎯 Quote of the Day
 -----------------------------------------------------------------
