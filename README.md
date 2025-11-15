@@ -53,20 +53,10 @@ Tools I Use for Data Analytics
 
 📈 My GitHub Stats
 -----------------------------------------------------------------
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=karthikbattuu&show_icons=true&theme=dark&include_all_commits=true&hide_border=true" alt="Karthik's GitHub Stats" />
-  
-</div>
-
-<div align="center">
-  
-  <img align="center" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikbattuu&langs_count=6&theme=dark&title_color=85A3FF&text_color=FFFFFF&hide_border=true&v=1.0.0" 
-       alt="Karthik's Top Languages" />
-       
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karthikbattuu&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikbattuu&layout=compact&theme=tokyonight" width="48%"/>
+</p>
 
 <hr style="border: none; height: 1px; background-color: #333; margin: 20px 0;">
 
@@ -81,8 +71,9 @@ Tools I Use for Data Analytics
 
 🧩 Visitor Counter
 -----------------------------------------------------------------
-<div align="center"/>
-👁️ Total Profile Visitors:
+<div align="center" style="background-color:#0d1117;padding:10px 20px;border-radius:12px;box-shadow:0px 0px 10px rgba(0,255,255,0.2);">
+  
+<p><strong>👁️ Total Profile Visitors:</strong></p>
 
 <br>[![visitors](https://komarev.com/ghpvc/?username=karthikbattuu&color=blue&label=visitors)](https://github.com/karthikbattuu)
 </div>
