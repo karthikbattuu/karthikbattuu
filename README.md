@@ -19,6 +19,11 @@
 [![GitHub Badge](https://img.shields.io/badge/GitHub-@karthikbattuu-28a745?style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://github.com/karthikbattuu)
 [![LinkedIn Badge](https://img.shields.io/badge/Linked%20in-in-1275B2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=333333)](https://www.linkedin.com/in/karthik-battuu/)
 [![X Badge](https://img.shields.io/badge/X-@karthikbattuu-707070?style=for-the-badge&logo=x&logoColor=white&labelColor=333333)](https://x.com/karthikbattuu)
+[![visitors](https://komarev.com/ghpvc/?username=karthikbattuu&color=blue&label=visitors)](https://github.com/karthikbattuu)
+<img src="https://komarev.com/ghpvc/?username=karthikbattuu&style=for-the-badge&label=Profile%20Visitor&color=blue" alt="Profile Visitor Count" />
+<a href="https://github.com/karthikbattuu" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=karthikbattuu&style=for-the-badge&label=Profile%20Visitor&color=blue" alt="Profile Visitor Count" />
+</a>
 
 Hi, I'm Karthik Battu. I'm a passionate data and business analyst 📉📊.
 
@@ -56,20 +61,13 @@ Tools I Use for Data Analytics
 
 ---
 
-📈 My GitHub Stats
------------------------------------------------------------------
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthikbattuu&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikbattuu&layout=compact&theme=tokyonight" width="48%"/>
-</p>
-
-<hr style="border: none; height: 1px; background-color: #333; margin: 20px 0;">
-
-⚡️ GitHub Streaks
+⚡️ GitHub Streaks and Stats
 -----------------------------------------------------------------
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikbattuu&theme=dark&hide_border=true&border_radius=6&ring=FF8C00&fire=FF8C00&currstreak_text=FF8C00&cache_buster=1" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikbattuu&theme=tokyonight&hide_border=true"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=karthikbattuu&show_icons=true&theme=tokyonight&width=48%&hide_border=true"/>
 </div>
 
 ---
