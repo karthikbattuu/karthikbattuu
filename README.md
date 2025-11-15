@@ -82,18 +82,24 @@ Tools I Use for Data Analytics
 -----------------------------------------------------------------
 
    
-<a href="mailto:karthik.battuu@gmail.com" class="contact-button gmail-button" target="_blank">
-        <span class="icon-symbol">M</span> karthik.battuu@gmail.com
-</a>
+<div class="split-buttons-container">
+    
+<a href="https://github.com/karthikbattuu" class="split-button github-button" target="_blank" title="GitHub Profile">
+        <span class="service-name">GitHub</span>
+        <span class="handle">@karthikbattuu</span>
+    </a>
 
-<a href="https://www.linkedin.com/in/karthik-battuu/" class="contact-button linkedin-button" target="_blank">
-        <span class="icon-symbol">in</span> /in/karthik-battuu/
-</a>
+<a href="https://www.linkedin.com/in/karthik-battuu/" class="split-button linkedin-button" target="_blank" title="LinkedIn Profile">
+        <span class="service-name">Linked<span style="font-style: italic;">in</span></span>
+        <span class="handle">/in/karthik-battuu/</span>
+    </a>
 
-<a href="https://github.com/karthikbattuu" class="contact-button github-button" target="_blank">
-        <span class="icon-symbol">G</span> karthikbattuu
-</a>
+<a href="https://x.com/karthikbattuu" class="split-button x-button" target="_blank" title="X Profile">
+        <span class="service-name">X</span>
+        <span class="handle">@karthikbattuu</span>
+    </a>
 
+</div>
 
 
 🎯 Quote of the Day
