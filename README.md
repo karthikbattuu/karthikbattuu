@@ -81,14 +81,20 @@ Tools I Use for Data Analytics
 📫 Let's connect!
 -----------------------------------------------------------------
 
-<p align="center">
-  <a href="karthik.battuu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/rb.aldii" target="_blank">
-    <img src="https://img.shields.io/badge/@rb.aldii-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+   
+<a href="mailto:karthik.battuu@gmail.com" class="contact-button gmail-button" target="_blank">
+        <span class="icon-symbol">M</span> karthik.battuu@gmail.com
+</a>
+
+<a href="https://www.linkedin.com/in/karthik-battuu/" class="contact-button linkedin-button" target="_blank">
+        <span class="icon-symbol">in</span> /in/karthik-battuu/
+</a>
+
+<a href="https://github.com/karthikbattuu" class="contact-button github-button" target="_blank">
+        <span class="icon-symbol">G</span> karthikbattuu
+</a>
+
+
 
 🎯 Quote of the Day
 -----------------------------------------------------------------
