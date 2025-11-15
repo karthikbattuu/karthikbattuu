@@ -36,19 +36,22 @@ Tools I Use for Data Analytics
 -----------------------------------------------------------------
 <p align="left">
     <a href="https://www.microsoft.com/en-in/sql-server/sql-server-downloads" target="_blank">
-        <img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=microsoftsqlserver&logoColor=white&h=30&cacheSeconds=3600"/></a>
+        <img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=microsoftsqlserver&logoColor=white&h=40&cacheSeconds=3600"/></a>
     
 <a href="https://www.python.org/" target="_blank">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&h=30&cacheSeconds=3600"/></a>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&h=40&cacheSeconds=3600"/></a>
     
 <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank">
-        <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white&h=30&cacheSeconds=3600"/></a>
+        <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white&h=40&cacheSeconds=3600"/></a>
     
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank">
-        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black&h=30&cacheSeconds=3600"/></a>
+        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black&h=40&cacheSeconds=3600"/></a>
     
 <a href="https://www.tableau.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white&h=30&cacheSeconds=3600"/></a>
+        <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white&h=40&cacheSeconds=3600"/></a>
+
+<a href="https://github.com/karthikbattuu" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&h=40&cacheSeconds=3600"/></a>
 </p>
 
 ---
