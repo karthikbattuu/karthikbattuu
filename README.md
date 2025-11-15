@@ -65,7 +65,7 @@ Tools I Use for Data Analytics
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikbattuu&theme=dark&hide_border=true&border_radius=6&ring=FF8C00&fire=FF8C00&currstreak_text=FF8C00&cache_buster=1" alt="GitHub Streak" />
 </div>
 
-<hr style="border: none; height: 1px; background-color: #333; margin: 20px 0;">
+---
 
 🧩 Visitor Counter
 -----------------------------------------------------------------
@@ -76,7 +76,9 @@ Tools I Use for Data Analytics
 <br>[![visitors](https://komarev.com/ghpvc/?username=karthikbattuu&color=blue&label=visitors)](https://github.com/karthikbattuu)
 </div>
 
-<hr style="border: none; height: 1px; background-color: #333; margin: 20px 0;">
+---
+
+📫 Let's connect!
 
 🎯 Quote of the Day
 -----------------------------------------------------------------
