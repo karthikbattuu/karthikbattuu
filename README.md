@@ -71,9 +71,13 @@ Tools I Use for Data Analytics
 
 🎯 Quote of the Day
 -----------------------------------------------------------------
-<div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=4285F4&center=true&vCenter=true&width=750&lines=Analyze+to+advance.;Data+fuels+financial+freedom.;Success+is+a+quantified+journey.;Your+best+asset+is+knowledge.;Code+your+vision+into+reality.;Mastery+requires+analysis.;Money+is+a+growth+metric.;Motivation+is+your+algorithm.;Be+the+data+expert.;Excellence+is+the+goal.;Focus+on+impact.;Refine+your+process.;Invest+in+skills.;Growth+lives+outside+comfort.;Seek+clarity+in+data.;Analyze+risks+wisely.;Wealth+is+freedom.;Build+your+empire.;Driven+by+insights.;Always+be+curious.;Learn%2C+analyze%2C+achieve.;Simplify+the+complex.;Action+beats+analysis.;Money+follows+value.;Innovate+with+data.;Success+demands+discipline.;Financial+literacy+is+power.;Your+code+is+your+legacy.;Master+your+metrics.;Solve+complex+problems.;Think+like+an+analyst.;Hustle+for+your+happiness.;Optimize+your+life.;Be+strategic%2C+not+busy.;Data+reveals+opportunities.;Set+high+standards.;Ambition+has+no+limit.;Growth+is+mandatory.;Code+your+destiny.;Progress%2C+not+perfection.;Find+the+signal+in+noise.;Analyze+your+failures.;Invest+in+growth.;Success+is+measurable.;Know+your+data+story.;Build+the+future.;Money+is+the+scorecard.;Be+the+strategist.;Mindset+defines+wealth.;Keep+analyzing%2C+keep+growing." alt="Typing SVG Scroller with 50 Quotes" />
+
+
+<div align="center" style="background-color:#e3f2fd;padding:20px;border-radius:12px;">
+
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Analyze+to+advance.;Data+fuels+financial+freedom.;Success+is+a+quantified+journey.;Your+best+asset+is+knowledge.;Code+your+vision+into+reality.;Mastery+requires+analysis.;Money+is+a+growth+metric.;Motivation+is+your+algorithm.;Be+the+data+expert.;Excellence+is+the+goal.;Focus+on+impact.;Refine+your+process.;Invest+in+skills.;Growth+lives+outside+comfort.;Seek+clarity+in+data.;Analyze+risks+wisely.;Wealth+is+freedom.;Build+your+empire.;Driven+by+insights.;Always+be+curious.;Learn%2C+analyze%2C+achieve.;Simplify+the+complex.;Action+beats+analysis.;Money+follows+value.;Innovate+with+data.;Success+demands+discipline.;Financial+literacy+is+power.;Your+code+is+your+legacy.;Master+your+metrics.;Solve+complex+problems.;Think+like+an+analyst.;Hustle+for+your+happiness.;Optimize+your+life.;Be+strategic%2C+not+busy.;Data+reveals+opportunities.;Set+high+standards.;Ambition+has+no+limit.;Growth+is+mandatory.;Code+your+destiny.;Progress%2C+not+perfection.;Find+the+signal+in+noise.;Analyze+your+failures.;Invest+in+growth.;Success+is+measurable.;Know+your+data+story.;Build+the+future.;Money+is+the+scorecard.;Be+the+strategist.;Mindset+defines+wealth.;Keep+analyzing%2C+keep+growing.;&center=true&width=500&height=45">
+
+</div>
   
 </div>
 <br>
